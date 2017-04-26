@@ -60,7 +60,7 @@ def getIncidentDetails(inc):
 def main():
     bot = vodaucwa.LyncBot()
     bot.setMessageCallback(messageReceived)
-#    proxy = "http://10.132.32.35:3128/"
+#    proxy = "http://proxy.company.com:80/"
 #    os.environ["http_proxy"] = proxy
 #    os.environ["https_proxy"] = proxy
     bot.authenticate(UC_URL, UC_USERNAME, UC_PASSWORD)
