@@ -1,3 +1,5 @@
+## Finally there is a [version for Python 3](https://github.com/dadecoza/python-ucwa-bot/tree/master/python3).
+
 # python-ucwa-bot
 Skype for Business Response Bot.
 
